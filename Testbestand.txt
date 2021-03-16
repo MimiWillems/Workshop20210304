@@ -3,3 +3,5 @@ Hallo ijmert fijn dat je erbij bent.
 Fijn we mogen eens conflicten uitlokken.
 :)
 
+Een wijziging ++
+
